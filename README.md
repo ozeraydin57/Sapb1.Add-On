@@ -2,13 +2,13 @@
 ## 1 - OA1
 this free addon is toolbox addon for developer and consultant, You can see some parameters about pc or sapb1.
  
- -you can check internet or newtwork coonnection
+ -you can check internet or network coonnection
  
- -you can see local, public ip
+ -you can see local or public ip and machine name etc.
  
  -computer system informations
  
- -sap system parameters
+ -sap system parameters, company connection etc.
  
-More information about : https://sapbusinesone.com/sap-business-one-icin-toolbox-add-on/
+More information about : [https://sapbusinesone.com/sap-business-one-icin-toolbox-add-on/](https://sapbusinesone.com/sap-business-one-icin-toolbox-add-on/) 
 
