@@ -10,6 +10,6 @@ this free addon is toolbox addon for developer and consultant, You can see some 
  
  -sap system parameters, company connection etc.
  
-More information about : [https://sapbusinesone.com/sap-business-one-icin-toolbox-add-on/](https://sapbusinesone.com/sap-business-one-icin-toolbox-add-on/) 
+More information about this add-on: [https://sapbusinesone.com/sap-business-one-icin-toolbox-add-on/](https://sapbusinesone.com/sap-business-one-icin-toolbox-add-on/) 
 
 ## 2 - OA2 ... Coming soon
