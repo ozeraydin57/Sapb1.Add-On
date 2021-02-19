@@ -9,7 +9,7 @@ this free addon is toolbox addon for developer and consultant, You can see some 
  
  -sap system parameters, company connection etc.
  
- -field management added 
+ -UDF management (added) 
  
 More information about this add-on: [https://sapbusinesone.com/sap-business-one-icin-toolbox-add-on/](https://sapbusinesone.com/sap-business-one-icin-toolbox-add-on/) 
 
