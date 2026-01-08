@@ -9,4 +9,4 @@ More information about this add-on: [https://sapbusinesone.com/sap-business-one-
 
 Add-on page : [OA2](https://github.com/ozeraydin57/Sapb1.Add-On/tree/main/OA2)
  
-More information about this add-on: [[https://sapbusinesone.com/sap-business-one-icin-toolbox-add-on/](https://sapbusinesone.com/sap-business-one-di-api-ve-windows-form-baglanti-yonetimi-oa2-addon/)]([https://sapbusinesone.com/sap-business-one-icin-toolbox-add-on/](https://sapbusinesone.com/sap-business-one-di-api-ve-windows-form-baglanti-yonetimi-oa2-addon/)) 
+More information about this add-on: [https://sapbusinesone.com/sap-business-one-di-api-ve-windows-form-baglanti-yonetimi-oa2-addon/](https://sapbusinesone.com/sap-business-one-di-api-ve-windows-form-baglanti-yonetimi-oa2-addon/)
