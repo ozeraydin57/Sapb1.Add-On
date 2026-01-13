@@ -1,4 +1,4 @@
-## 1 - OA1 - Sap Business One Toolbox Add-On
+## 2 - OA2 - DIAPI Windows Form Connection Test
 this free winform app for developer and consultant, You can check diapi conneciton.
  
 More information about this add-on: [https://sapbusinesone.com/sap-business-one-di-api-ve-windows-form-baglanti-yonetimi-oa2-addon/](https://sapbusinesone.com/sap-business-one-di-api-ve-windows-form-baglanti-yonetimi-oa2-addon/) 
